@@ -44,7 +44,6 @@ We believe in clean code, modern stacks, and CI/CD best practices. Our GitHub re
 
 Want to know more?
 
-📧 Email: [info@proxsys.nl](mailto:info@proxsys.nl)  
 🌐 Web: [https://proxsys.nl](https://proxsys.nl)  
 🔗 LinkedIn: [Proxsys Technology](https://www.linkedin.com/company/proxsysbv)
 
